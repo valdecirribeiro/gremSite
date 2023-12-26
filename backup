@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title img src="img/img1.png">Gren Group</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/cayman.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  </head>
+  <body>
+    <section class="page-header">
+      <a href=""target="_blank"><img src="img/img1.png" alt="" data-canonical-src="https://placekitten.com/g/300/200/" style="max-width:100%;"></a>
+         </section>
+
+    <section class="main-content">
+      <h1>
+        <a id="user-content-header-1" class="anchor" href="#header-1" aria-hidden="true"><span class="octicon octicon-link"></span></a> Quem somos</h1>
+        Com distinto apreço pela inovação e responsabilidade ambiental, apresentamo-nos como a Gren Group, uma empresa dedicada a mitigar o impacto ambiental 
+        resultante da construção civil. Nossa missão transcende fronteiras ao conectar usinas de RCC, fabricantes de equipamentos para recuperação e empresas 
+        especializadas em argamassas. O cerne de nossa atuação reside na criação de produtos exclusivos, patenteados pela Gren Group, que revolucionam a maneira 
+        como lidamos com resíduos construtivos.
+
+        Orgulhamo-nos de sermos pioneiros neste esforço nacional, transformando a gestão de resíduos em uma sinfonia eficiente e sustentável. Ao unir forças e 
+        conhecimentos, consolidamos nosso posto como o maior projeto de âmbito nacional neste modelo, evidenciando nosso compromisso com um futuro mais verde e promissor.
+        
+        Na Gren Group, cada passo é meticulosamente planejado, cada solução é elegantemente desenvolvida. Convidamos a todos a se juntarem a nós nessa jornada onde a 
+        construção civil e a preservação ambiental harmonizam-se, definindo um novo padrão de excelência e consciência no cenário nacional.</p>
+
+      
+      <blockquote>
+      
+      </blockquote>
+
+      <h1>
+      <a id="user-content-header-1" class="anchor" href="#header-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+      Economia Circular</h1>
+      <a href=""target="_blank"><img src="img/4.png" alt="" data-canonical-src="https://placekitten.com/g/300/200/" style="max-width:100%;"></a>
+      <p>Através da economia circular e da destinação consciente de resíduos, testemunhamos uma transformação ambiental significativa. Na essência da Gren Group, 
+        acreditamos que ao adotar práticas sustentáveis, não apenas preservamos o meio ambiente, mas também prosperamos como sociedade. Nossa busca por produtos sustentáveis
+         e de qualidade reflete o comprometimento em criar um cenário onde todos ganham: da natureza à qualidade de vida.</p>
+
+      <h2>
+      <a id="user-content-header-2" class="anchor" href="#header-2" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+      Sustentabilidade</h2>
+      <a href=""target="_blank"><img src="img/6.png" alt="" data-canonical-src="https://placekitten.com/g/300/200/" style="max-width:100%;"></a>
+
+      
+  
+      <blockquote>
+      <p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.</p>
+      </blockquote>
+
+      <h3>
+      <a id="user-content-header-3" class="anchor" href="#header-3" aria-hidden="true"><span class="octicon octicon-link"></span></a>Beneficios</h3>
+      <a href=""target="_blank"><img src="img/7.png" alt="" data-canonical-src="https://placekitten.com/g/300/200/" style="max-width:100%;"></a>
+      <p>This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.</p>
+      
+      <h3>
+        <a id="user-content-header-4" class="anchor" href="#header-4" aria-hidden="true"><span class="octicon octicon-link"></span></a>Quem pode fazer parte?</h3>
+        <a href=""target="_blank"><img src="img/8.png" alt="" data-canonical-src="https://placekitten.com/g/300/200/" style="max-width:100%;"></a>
+        <p>Junte-se à Gren Group e faça parte de um movimento que redefine a sustentabilidade na construção civil. Para empresas de argamassas, usinas de reciclagem,
+           indústrias de mineração, investidores privados e governos municipais, oferecemos uma abordagem inovadora e ecologicamente responsável. Ao unir forças, 
+           não apenas garantimos retornos financeiros, mas também contribuímos para um futuro mais sustentável e próspero. Seja a força motriz por trás da mudança - 
+           faça parte da Gren Group e construa um legado ambientalmente consciente.</p>
+
+
+           <footer class="bg-dark text-light py-3">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-4">
+                  <h4>Social Media</h4>
+                  <div class="d-flex flex-row justify-content-around">
+                    <a href="https://www.facebook.com/example" target="_blank" rel="noopener noreferrer" class="text-light">
+                      <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="https://www.instagram.com/example" target="_blank" rel="noopener noreferrer" class="text-light">
+                      <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/in/example" target="_blank" rel="noopener noreferrer" class="text-light">
+                      <i class="fab fa-linkedin-in"></i>
+                    </a>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <h4>Contact</h4>
+                  <p>Email: <a href="mailto:contato@exemplo.com" class="text-light">contato@exemplo.com</a></p>
+                  <p>Phone: <a href="tel:+55 12 3456-7890" class="text-light">+55 12 3456-7890</a></p>
+                </div>
+                <div class="col-md-4">
+                  <h4>Site</h4>
+                  <p>Maintained by: Vs Desenvolvimentos</p>
+                </div>
+              </div>
+            </div>
+         </footer>
+         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"></script>
+
+    </section>
+
+  </body>
+</html>
